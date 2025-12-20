@@ -10,7 +10,7 @@ By analyzing historical migration data from 2022, we built a transition matrix t
 * **Source:** U.S. Census Bureau data.
 * **Year Analyzed:** 2022 (Most recent complete dataset).
 * **States Tracked:** California (CA), Texas (TX), New York (NY).
- 
+
 ## 🧮 Methodology
 The project treats the three states as a **Closed System**.
 1.  **Transition Matrix ($P$):** We calculated the probability $P_{ij}$ that a resident of State $i$ moves to State $j$ (or stays) based on 2022 flow counts.
