@@ -15,7 +15,7 @@ By analyzing historical migration data from 2022, we built a transition matrix t
 The project treats the three states as a **Closed System**.
 1.  **Transition Matrix ($P$):** We calculated the probability $P_{ij}$ that a resident of State $i$ moves to State $j$ (or stays) based on 2022 flow counts.
 2.  **Simulation Loop:** We projected population for $n$ years using the matrix multiplication formula:
-    $$\pi_{n+1} = \pi_n \times P$$
+    $$\pi_{n+1} = \pi_n \times P$$ 
 3.  **Steady State:** We calculated the eigenvector corresponding to $\lambda = 1$ to find the theoretical long-term equilibrium where migration stabilizes.
  
 ## 📉 Key Findings
