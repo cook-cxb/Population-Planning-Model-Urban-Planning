@@ -26,7 +26,7 @@ Our simulation revealed a significant demographic shift:
  
 | State | Initial Share (2022) | Predicted Steady State Share |
 | :--- | :--- | :--- |
-| **Texas** | ~29% | **55.1%** |
+| **Texas** | ~29% | **55.1%** | 
 | **California** | ~38% | **29.4%** |
 | **New York** | ~19% | **15.4%** |
  
