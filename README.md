@@ -29,7 +29,7 @@ Our simulation revealed a significant demographic shift:
 | **Texas** | ~29% | **55.1%** |
 | **California** | ~38% | **29.4%** |
 | **New York** | ~19% | **15.4%** |
-
+ 
 ## 📂 File Structure
 * `migration_model.ipynb`: The main Python analysis notebook.
 * `migration_counts_raw.csv`: Raw migration data extracted from Census.
