@@ -17,7 +17,7 @@ The project treats the three states as a **Closed System**.
 2.  **Simulation Loop:** We projected population for $n$ years using the matrix multiplication formula:
     $$\pi_{n+1} = \pi_n \times P$$
 3.  **Steady State:** We calculated the eigenvector corresponding to $\lambda = 1$ to find the theoretical long-term equilibrium where migration stabilizes.
-
+ 
 ## 📉 Key Findings
 Our simulation revealed a significant demographic shift:
 * **Texas** acts as an "absorbing state" with a retention rate of **>99.8%**, gaining population from both CA and NY.
