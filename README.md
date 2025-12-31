@@ -23,7 +23,7 @@ Our simulation revealed a significant demographic shift:
 * **Texas** acts as an "absorbing state" with a retention rate of **>99.8%**, gaining population from both CA and NY.
 * **California** is projected to lose population share, dropping from **~29.4%** in the steady state.
 * **New York** stabilizes at a lower population share of **~15.4%**.
-
+ 
 | State | Initial Share (2022) | Predicted Steady State Share |
 | :--- | :--- | :--- |
 | **Texas** | ~29% | **55.1%** |
