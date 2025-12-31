@@ -9,7 +9,7 @@ By analyzing historical migration data from 2022, we built a transition matrix t
 * **Dataset:** [Migration Flows Across U.S. States (2010-2022)](https://www.kaggle.com/datasets/ygebre1/migration-flows-across-u-s-states-20102022)
 * **Source:** U.S. Census Bureau data.
 * **Year Analyzed:** 2022 (Most recent complete dataset).
-* **States Tracked:** California (CA), Texas (TX), New York (NY).
+* **States Tracked:** California (CA), Texas (TX), New York (NY). 
  
 ## 🧮 Methodology
 The project treats the three states as a **Closed System**.
